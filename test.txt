@@ -1,0 +1,7 @@
+{
+  "email": "nishantmehta739@gmail.com",
+  "name": "NishantMehta",
+  "mobile": "1234567890",
+  "password": "123456789",
+  "gender": "male"
+}
